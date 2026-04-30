@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,java,intellij,gradle,react,groovy,kotlin
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,java,intellij,gradle,react,groovy,kotlin
 
+### my gitignore
+application.yaml
+
 ### Groovy ###
 # .gitignore created from Groovy contributors in https://github.com/apache/groovy/blob/master/.gitignore
 
